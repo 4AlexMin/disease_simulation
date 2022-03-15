@@ -1,5 +1,6 @@
 # disease_simulation
 disease's recovery rates simulation just by changing xlsx files.
+### PROJECT IN MASTER BRANCH
   #### [HOW TO USE] 
   1. Only change the content in three xlsx according to your situation.
   > (NO HEADER CHANGE, but you can add/delete rows) 
